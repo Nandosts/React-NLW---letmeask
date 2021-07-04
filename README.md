@@ -13,6 +13,7 @@ Como acessar do seu computador
 
 Clone o projeto e acesse a pasta do mesmo.
 
-$ git clone https://github.com/Nandosts/React-NLW---letmeask
-$ cd React-NLW---letmeask
+  git clone https://github.com/Nandosts/React-NLW---letmeask
+
+  cd React-NLW---letmeask
 
