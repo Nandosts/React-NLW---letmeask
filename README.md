@@ -19,7 +19,8 @@ No projeto, você deve rodar:
   * Firebase
   * TypeScript
 
-https://letmeask-cbfae.web.app/
+Deploy: https://letmeask-cbfae.web.app/
+
 Para acessar sala como admin, tente
 https://letmeask-cbfae.web.app/admin/rooms/<codigo-da-sala>
 ![image](https://user-images.githubusercontent.com/65089035/124399846-a7c88780-dcf4-11eb-9c29-9c8508f01d91.png)
