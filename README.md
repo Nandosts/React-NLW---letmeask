@@ -22,7 +22,7 @@ No projeto, você deve rodar:
 Deploy: https://letmeask-cbfae.web.app/
 
 Para acessar sala como admin, tente
-https://letmeask-cbfae.web.app/admin/rooms/<codigo-da-sala>
+https://letmeask-cbfae.web.app/admin/rooms/(codigo-da-sala)
 ![image](https://user-images.githubusercontent.com/65089035/124399846-a7c88780-dcf4-11eb-9c29-9c8508f01d91.png)
 Este projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
